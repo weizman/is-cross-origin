@@ -1,0 +1,28 @@
+{
+  "name": "is-cross-origin",
+  "version": "1.0.0",
+  "description": "tells whether provided window is cross origin or same origin",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/weizman/is-cross-origin.git"
+  },
+  "keywords": [
+    "window",
+    "cross-origin",
+    "cross",
+    "origin"
+  ],
+  "author": "weizman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/weizman/is-cross-origin/issues"
+  },
+  "homepage": "https://github.com/weizman/is-cross-origin#readme",
+  "dependencies": {
+    "is-window": "^1.0.2"
+  }
+}
