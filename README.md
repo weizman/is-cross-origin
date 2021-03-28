@@ -37,7 +37,7 @@ so for example, in order to tell whether a certain iframe is in a cross origin i
                 console.log('is "a" cross origin? ' + aIsCrossOrigin); // false
                 console.log('is "b" cross origin? ' + bIsCrossOrigin); // true
             }
-        <script>
+        </script>
     </body>
 </html>
 ```
