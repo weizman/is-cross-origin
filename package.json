@@ -4,7 +4,7 @@
   "description": "tells whether provided window is cross origin or same origin",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
