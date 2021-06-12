@@ -42,6 +42,15 @@ so for example, in order to tell whether a certain iframe is in a cross origin i
 </html>
 ```
 
+#### usage update
+
+now a third argument can be passed that will be the `Object` constructor to use when telling whether provided arguments are of type windows or not (default will evaluate to `window.Object`:
+
+```javascript
+isCrossOrigin(dstWindow, srcWindow, window.Object /* optional */)
+```
+
+
 ### important usage notes
 
 * window should finish loading in order for this API to work. 
