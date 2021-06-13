@@ -1,6 +1,6 @@
 {
   "name": "is-cross-origin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "tells whether provided window is cross origin or same origin",
   "main": "index.js",
   "scripts": {
