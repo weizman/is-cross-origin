@@ -21,8 +21,5 @@
   "bugs": {
     "url": "https://github.com/weizman/is-cross-origin/issues"
   },
-  "homepage": "https://github.com/weizman/is-cross-origin#readme",
-  "dependencies": {
-    "is-window": "^1.0.2"
-  }
+  "homepage": "https://github.com/weizman/is-cross-origin#readme"
 }
